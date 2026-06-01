@@ -18,7 +18,7 @@ Implementaciones prácticas de infraestructura de red desarrolladas en el curso 
 | # | Laboratorio | Temas | Estado |
 |---|---|---|---|
 | 01 | [Redes con VLANs](./Lab01_Redes_con_VLANS/) | VLANs, Switches, Trunk Links, Ping | ✅ Completado |
-| 02 | Enrutamiento Estático | Routing, Tablas de enrutamiento | 🔄 Próximamente |
+| 02 | [Enrutamiento de VLAN](./Lab02_Enrutamiento_de_VLAN/) | Router on Stick, 802.1Q, Subinterfaces | ✅ Completado |
 | 03 | Protocolo RIP | Enrutamiento dinámico | 🔄 Próximamente |
 | 04 | Protocolo OSPF | Enrutamiento por estado de enlace | 🔄 Próximamente |
 
