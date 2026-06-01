@@ -14,6 +14,27 @@ Laboratorio de configuración de **VLANs** en switches Cisco, incluyendo asignac
 
 ---
 
+## 🗺️ Topología de red
+
+![Topología](topologia.png)
+
+| Dispositivo | Modelo | Puertos usados |
+|---|---|---|
+| S1 | Cisco 2960-24TT | Fa0/1, Fa0/2 (trunk) |
+| S2 | Cisco 2960-24TT | Fa0/1 (trunk), Fa0/6, Fa0/11, Fa0/18 |
+| S3 | Cisco 2960-24TT | Fa0/2 (trunk), Fa0/6, Fa0/11, Fa0/18 |
+
+| PC | IP | VLAN |
+|---|---|---|
+| PC1 | 172.17.10.21 | VLAN 10 |
+| PC2 | 172.17.20.22 | VLAN 20 |
+| PC3 | 172.17.30.23 | VLAN 30 |
+| PC4 | 172.17.10.24 | VLAN 10 |
+| PC5 | 172.17.20.25 | VLAN 20 |
+| PC6 | 172.17.30.26 | VLAN 30 |
+
+---
+
 ## 🎯 Objetivos
 
 - Cablear una red según diagrama de topología
@@ -30,11 +51,11 @@ Laboratorio de configuración de **VLANs** en switches Cisco, incluyendo asignac
 
 | Concepto | Detalle |
 |---|---|
-| 🏷️ VLANs | Segmentación lógica de la red en switches S1, S2 y S3 |
-| 🔗 Trunk Links | Configuración de enlace troncal entre switches |
+| 🏷️ VLANs | Segmentación lógica en VLAN 10, 20 y 30 |
+| 🔗 Trunk Links | Enlace troncal S2↔S1↔S3 |
 | 🌐 VLAN de administración | Asignación de VLAN para gestión del switch |
-| 📡 Ping entre hosts | Verificación de conectividad entre PCs de distintas VLANs |
-| 💾 Guardado de configuración | Persistencia de configuración VLAN en los switches |
+| 📡 Ping entre hosts | Verificación de conectividad entre PCs de misma VLAN |
+| 💾 Guardado de configuración | Persistencia de configuración en los switches |
 
 ---
 
@@ -43,7 +64,8 @@ Laboratorio de configuración de **VLANs** en switches Cisco, incluyendo asignac
 ```
 Lab01_Redes_con_VLANS/
 │
-├── *.pkt          # Archivo de topología Cisco Packet Tracer
+├── *.pkt           # Archivo de topología Cisco Packet Tracer
+├── topologia.png   # Diagrama de red
 └── README.md
 ```
 
