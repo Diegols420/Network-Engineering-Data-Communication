@@ -24,6 +24,7 @@ Implementaciones prácticas de infraestructura de red desarrolladas en el curso 
 | 05 | [Protocolo HSRP](./Lab05_Protocolo_HSRP/) | HSRP, IP Virtual, Failover, Alta disponibilidad | ✅ Completado |
 | 06 | [HSRP Avanzado](./Lab06_HSRP_Avanzado(Reto)/) | HSRP avanzado, Análisis de fallos | ✅ Completado |
 | 07 | [Seguridad en el Acceso SSH y RADIUS](./Lab07_Seguridad_en_el_Acceso(SSH_y_RADIUS)/) | SSH v2, RADIUS, 802.1X, VLANs, DHCP | ✅ Completado |
+| 08 | [Seguridad de Puertos](./Lab08_Seguridad_de_Puertos/) | Port Security, MAC Sticky, DHCP Snooping, VLANs | ✅ Completado |
 
 ---
 
