@@ -22,8 +22,8 @@ Implementaciones prácticas de infraestructura de red desarrolladas en el curso 
 | 03 | [STP y EtherChannel](./Lab03_STP_y_EtherChannel/) | STP, EtherChannel, Redundancia de enlaces | ✅ Completado |
 | 04 | [Implementación DHCP](./Lab04_Implementacion_del_Servicio_DHCP/) | DHCP Server, VLANs, Router on Stick, dot1Q | ✅ Completado |
 | 05 | [Protocolo HSRP](./Lab05_Protocolo_HSRP/) | HSRP, IP Virtual, Failover, Alta disponibilidad | ✅ Completado |
-| 06 | [HSRP Avanzado](./Lab06_HSRP_Avanzado/) | HSRP avanzado, Análisis de fallos | ✅ Completado |
-| 07 | [Seguridad en el Acceso SSH y RADIUS](./Lab07_Seguridad_Acceso_SSH_RADIUS/) | SSH v2, RADIUS, 802.1X, VLANs, DHCP | ✅ Completado |
+| 06 | [HSRP Avanzado](./Lab06_HSRP_Avanzado(Reto)/) | HSRP avanzado, Análisis de fallos | ✅ Completado |
+| 07 | [Seguridad en el Acceso SSH y RADIUS](./Lab07_Seguridad_en_el_Acceso(SSH_y_RADIUS)/) | SSH v2, RADIUS, 802.1X, VLANs, DHCP | ✅ Completado |
 
 ---
 
