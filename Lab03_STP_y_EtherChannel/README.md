@@ -4,7 +4,6 @@
 
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Tema](https://img.shields.io/badge/Tema-STP+EtherChannel-blue?style=flat)
-![Docente](https://img.shields.io/badge/Docente-Mgtr.%20Pietro%20Peraldo-gray?style=flat)
 
 ---
 
