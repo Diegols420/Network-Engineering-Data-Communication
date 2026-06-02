@@ -4,7 +4,6 @@
 
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Tema](https://img.shields.io/badge/Tema-HSRP+VLANs-orange?style=flat)
-![Dificultad](https://img.shields.io/badge/Dificultad-Reto-red?style=flat)
 
 ---
 
