@@ -20,7 +20,7 @@ Implementaciones prácticas de infraestructura de red desarrolladas en el curso 
 | 01 | [Redes con VLANs](./Lab01_Redes_con_VLANS/) | VLANs, Switches, Trunk Links, Ping | ✅ Completado |
 | 02 | [Enrutamiento de VLAN](./Lab02_Enrutamiento_de_VLAN/) | Router on Stick, 802.1Q, Subinterfaces | ✅ Completado |
 | 03 | [STP y EtherChannel](./Lab03_STP_y_EtherChannel/) | STP, EtherChannel, Redundancia de enlaces | ✅ Completado |
-| 04 | Protocolo OSPF | Enrutamiento por estado de enlace | 🔄 Próximamente |
+| 04 | [Implementación DHCP](./Lab04_Implementacion_DHCP/) | DHCP Server, VLANs, Router on Stick, dot1Q | ✅ Completado |
 
 ---
 
