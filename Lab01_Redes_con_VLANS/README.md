@@ -4,7 +4,6 @@
 
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![VLAN](https://img.shields.io/badge/Tema-VLANs-blue?style=flat)
-![Docente](https://img.shields.io/badge/Docente-Ing.%20Pietro%20Peraldo-gray?style=flat)
 
 ---
 
